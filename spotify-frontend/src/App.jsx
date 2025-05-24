@@ -2,6 +2,7 @@ import React from "react";
 import Sidebar from "./Component/Sidebar";
 import Player from "./Component/Player";
 import Display from "./Component/Display";
+import "../src/index.css";
 
 const App = () => {
   return (
